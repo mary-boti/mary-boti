@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mary-boti or just Mary :)
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning ML ... aspiring to become GANs guru lol
-- 💞️ I’m looking to collaborate on ... open source AI projects
+- 👀 I’m interested in HealthTech
+- 🌱 I’m currently learning Agentic AI ... aspiring to build HelthTech bot
+- 💞️ I’m looking to collaborate on ... open source healthtech projects
 - 📫 How to reach me ... blending.ai@gmail.com
 
 <!---
